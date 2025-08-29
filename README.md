@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neha-Akter-Alisha
-- 👀 I’m interested in DSA with Java and in WevDevlopment
+- 👀 I’m interested in DSA with Java and in WebDevlopment
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me nehaalisha269@gmail.com
