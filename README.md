@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neha-Akter-Alisha
-- 👀 I’m interested in Frappe and ERPNext
-- 🌱 I’m currently learning DSA using python language
+- 👀 I’m interested in Flask and Python
+- 🌱 I’m currently learning DSA using java language
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me nehaalisha269@gmail.com
 - 😄 Pronouns: ...She/her
